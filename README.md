@@ -1,4 +1,2 @@
-# Object Oriented Programming Game Project
-
-<h2 align="center">Star Wars Game</h2>
+<h2 align="center"><strong>Star Wars : Episode VI Game</strong></h2>
 
